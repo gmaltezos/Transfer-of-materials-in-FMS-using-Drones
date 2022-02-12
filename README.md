@@ -25,3 +25,5 @@ deposited will be explored and a basic solution will be designed using CAD softw
 
 In the 3rd part of the work, the overall inventory of the research is made, the conclusions are report-
 ed and ways are proposed, for the further development of the research.
+
+The dissertation has been written by Gerasimos Maltezos, under the supervision of Professor George-Christophoros Vosniakos, as a Diploma Thesis of the author for his studies in Mechanical Engineering, NTUA. The language of the dissertation is Greek.
